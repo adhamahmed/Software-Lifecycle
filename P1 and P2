@@ -1,1 +1,23 @@
-# Software-Lifecycle
+Software Development Lifecycles
+
+P1 - Describe two iterative and two sequential software lifecycle models
+
+Iterative Models -
+
+Evolutionary Prototyping -
+This model starts off with an identification of as many basic requirements as possible. From this, an initial prototype is created. Several prototypes are created as the project goes on, each adding or refining to the prototype as more requirements come up. Next, the prototype is marketed to the participants of the target market. Once research comes back, the prototype is changed and improved from here onwards.
+
+Spiral Model -
+This model is risk driven with 4 stages; planning, risk analysis, development and testing, and then evaluation. The project will go through these 4 steps in an iterative way. First they gather the requirements, and then from finding out the risks, they also find out the solution to them to create a prototype. The last stage is evaluating the prototype and project, and then planning for the next version of it all.
+
+Sequential Models -
+
+Waterfall Model -
+
+
+
+Rapid Application Development -
+
+
+
+P2 - Explain how risk is managed in the Spiral Lifecycle model
