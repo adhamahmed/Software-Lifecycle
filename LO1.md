@@ -23,3 +23,15 @@ P2 - Explain how risk is managed in the Spiral Lifecycle model
 Developing software comes with a lot of uncertainty, which comes implies risk. Risk can be managed by quantifying it: Risk exposure = Probability (of negative outcome) x Loss (as a result of this outcome). This can be used to select alternative paths, usually the one with the expected loss to be smallest.
 Within risk management, risks need to be both assessed and controlled. When it is assessed, there are three parts to it; identification of the risks involved, analysis of each risk, and then prioritization of which risk has the most expected loss etc.
 The next part of risk management is control which also has three parts to it; planning of each risk, then resolving each one, and then monitoring to see if any risks arise unexpectedly.
+
+M1 - Describe, with an example, why a particular lifecycle model is selected for a development environment.
+
+The Evolutionary Prototyping model is used frequently within web design, as it encourages the company or team working on the website to constantly get feedback on each prototype from the client. This is a great way for the designers to keep on track with what the client wants from the website, as after they collect the initial requirements the clients needs may change. As well as this, the client may also just choose to change some parts they are unhappy with, and being an iterative model it allows constant refinement till both parties are happy.
+
+
+
+
+
+
+
+
