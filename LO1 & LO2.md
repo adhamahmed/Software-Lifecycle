@@ -35,8 +35,7 @@ LO2 Explain the importance of a feasibility study
 
 P3 - Explain the purpose of a feasibility report
 
-
-
+The purpose behind a feasibility report is to critically evaluate each individual component of a project, which include exploration of the main focus, the scope of the project, costs, risks, and alternative paths for the project to take. A feasibility report can provide valuable information on whether or not the project as an entirety is worth going through with. Data is also collected on the potential risks, and what can be done to minimise them. Data on the target audience is also collected to see if the end product is marketable.
 
 P4 -  Describe how technical solutions can be compared
 
