@@ -1,5 +1,7 @@
 Software Development Lifecycles
 
+LO1 Describe different software development lifecycles 
+
 P1 - Describe two iterative and two sequential software lifecycle models
 
 Iterative Models -
@@ -29,7 +31,19 @@ M1 - Describe, with an example, why a particular lifecycle model is selected for
 The Evolutionary Prototyping model is used frequently within web design, as it encourages the company or team working on the website to constantly get feedback on each prototype from the client. This is a great way for the designers to keep on track with what the client wants from the website, as after they collect the initial requirements the clients needs may change. As well as this, the client may also just choose to change some parts they are unhappy with, and being an iterative model it allows constant refinement till both parties are happy.
 
 
+LO2 Explain the importance of a feasibility study
 
+P3 - Explain the purpose of a feasibility report
+
+
+
+
+P4 -  Describe how technical solutions can be compared
+
+
+
+
+M2 - Discuss the components of a feasibility report
 
 
 
