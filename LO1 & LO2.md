@@ -43,7 +43,12 @@ Technical solutions can be compared to find out which one is best suited for the
 
 ### M2 - Discuss the components of a feasibility report
 
+Feasibility reports are split up into 4 sections that each look at different points when analysing the feasibility of a project.
 
+*Financial Feasibility* is the part where the company focuses on the cost to start up and implement their product within their chosen market. They will look at the running costs to maintain their product too, such as if they need to pay rent for an area of space, to maintain an online server, or any utilities needed.
 
+*Market Feasibility* is where the company will focus on how profitable the end product will be and what its market worth will be. They will also assess if what they plan to create is needed in the current state of the market, and see where they can best market and advertise it. This part is rather important as if they cannot show they will make a profit from the product the company are less likely to go forward with the project.
 
+*Technical Feasibility* is the part where the company will focus on any sort of special resources they might need for the project. This can include special software, work area, or even specially trained staff.
 
+*Organisational Feasibility* the purpose for this part is to determine whether or not the project has sufficient organisational competence, as in if they have the right staff and management to make this project a success. They also focus on if they have enough resources to release the product. This can involve staff, work space such as offices, and suppliers.
