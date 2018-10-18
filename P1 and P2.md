@@ -19,6 +19,7 @@ Rapid Application Development -
 This model creates systems much faster than other models. It has 4 stages; planning requirements, user design, rapid construction, and transition. The initial stage starts with the designer and users coming up with a bare bones agreement on the requirements. The user feedback is gathered with heavy emphasis on determining the system architecture, which allows initial prototypes to be created. Rapid construction is done once the user and system design has begun. The final stage allows the development team to test some components in a live production environment, which gives feedback on what they can do from there onwards.
 
 P2 - Explain how risk is managed in the Spiral Lifecycle model
+
 Developing software comes with a lot of uncertainty, which comes implies risk. Risk can be managed by quantifying it: Risk exposure = Probability (of negative outcome) x Loss (as a result of this outcome). This can be used to select alternative paths, usually the one with the expected loss to be smallest.
 Within risk management, risks need to be both assessed and controlled. When it is assessed, there are three parts to it; identification of the risks involved, analysis of each risk, and then prioritization of which risk has the most expected loss etc.
 The next part of risk management is control which also has three parts to it; planning of each risk, then resolving each one, and then monitoring to see if any risks arise unexpectedly.
