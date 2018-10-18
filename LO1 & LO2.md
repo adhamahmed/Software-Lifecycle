@@ -39,8 +39,7 @@ The purpose behind a feasibility report is to critically evaluate each individua
 
 P4 -  Describe how technical solutions can be compared
 
-
-
+Technical solutions can be compared to find out which one is best suited for the problem at hand. There are many ways to compare solutions to problems that can occur during the development stages of a project. Technical solutions can be compared through fitness of purpose, by which you analyse the problem first and find a solution that fits the best for the situation. Another way to compare solutions is the maturity of the solution, which means how reliable the solution is. The last way to compare is the cost of the solution, as an cheaper solution may not be an effective as one that is slightly more costly.
 
 M2 - Discuss the components of a feasibility report
 
