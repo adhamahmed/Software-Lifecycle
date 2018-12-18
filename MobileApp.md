@@ -51,13 +51,19 @@ World Cuisine's target audience as a resturant is non specific to age or gender.
 The application will also be widely accessable to users of other languages, and disabled users. For instance, those with loss of hearing can order through the app without having to talk through the phone, as well as being able to select delivery for those who cannot leave their homes as easily as others.
 
 Name: Archie Frank
+
 Age: 20
+
 Occupation: Full time employee
+
 Background: As a new full time hire, Archie does not have a lot of free time to be able to go out and eat at resturants or even cook. Through the easy use of the World Cuisine application, Archie can easily order to his house or office when he likes.
 
 Name: Sian Blodwyn
+
 Age: 53
+
 Occupation: Self employed
+
 Background: Sian has suffered from a bad hip and has recently had surgery to replace it. This has impacted everyday activies, one of which being able to go out for a meal. Through the use of the application Sian can order food as often as she wants within the comfort of her own home.
 
 
